@@ -1,6 +1,6 @@
 
 
 ## Prueba de link
-[Link a README principal] (../README.md)
+[Link a README principal](../README.md)
 
-[Programa C#] (../T1/Program.cs)
+[Programa C#](../T1/Program.cs)
