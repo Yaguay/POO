@@ -4,7 +4,7 @@
 
 Primero, ingresa a la [esta página](https://code.visualstudio.com/ "code.visualstudio.com") , y una vez dentro presiona en el botón verde de la esquina superior derecha que dice Download.
 
-![alt text](Images/1.0.jpg "1")
+![alt text](https://raw.githubusercontent.com/Yaguay/POO/master/Images/1.0.jpg "1")
 
 En la siguiente pagina te aparecerá varias opciones de descarga, incluyendo una versión para Linux y Mac. En este caso, se elegirá una de las opciones para Windows de 7 a 10.
 
