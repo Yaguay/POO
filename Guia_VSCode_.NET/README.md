@@ -34,3 +34,33 @@ Cuando termine la descarga, inicia el instalador, y sigue las siguientes imágen
 ![alt text](https://raw.githubusercontent.com/Yaguay/POO/master/Images/10.png "10")
 
 Y con esto, ya está instalado VS Code.
+
+## DOTNET 
+
+Primero ingresa a [Esta página](https://dotnet.microsoft.com/ "dotnet.microsoft.com") y presiona Download.
+
+![alt text](https://github.com/Yaguay/POO/blob/master/Images/11.jpg "11")
+
+En la siguiente pagina te saldrá varias opciones de descarga, pero como lo queremos para usar en VS Code elegiremos Download .NET Core SDK e iniciará la descarga.
+
+![alt text](https://github.com/Yaguay/POO/blob/master/Images/12.jpg "12")
+
+Una vez descargado, seguiremos los siguientes pasos:
+
+![alt text](https://github.com/Yaguay/POO/blob/master/Images/13.jpg "13")
+
+![alt text](https://github.com/Yaguay/POO/blob/master/Images/14.jpg "14")
+
+![alt text](https://github.com/Yaguay/POO/blob/master/Images/15.jpg "15")
+
+Y con esto DOTNET ha sido instalado. Y para confirmar que lo está, abra el cmd en su PC (también llamado símbolo del sistema) en la barra del buscador y ejecútela.
+
+![alt text](https://github.com/Yaguay/POO/blob/master/Images/16.jpg "16")
+
+![all text](https://github.com/Yaguay/POO/blob/master/Images/17.jpg "17") 
+
+Escriba dotnet y presione Enter. Si la instalación fue correcta, le aparecerá una descripción como en la imagen siguiente.
+
+![all text](https://github.com/Yaguay/POO/blob/master/Images/18.jpg "18") 
+
+Si aparece una descripción como en la imagen anterior, eso quiere decir que la instalación fue correcta.
