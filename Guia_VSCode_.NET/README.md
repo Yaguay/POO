@@ -47,20 +47,20 @@ En la siguiente pagina te saldrá varias opciones de descarga, pero como lo quer
 
 Una vez descargado, seguiremos los siguientes pasos:
 
-![alt text](https://github.com/Yaguay/POO/blob/master/Images/13.jpg "13")
+![alt text](https://github.com/Yaguay/POO/blob/master/Images/13.png "13")
 
-![alt text](https://github.com/Yaguay/POO/blob/master/Images/14.jpg "14")
+![alt text](https://github.com/Yaguay/POO/blob/master/Images/14.png "14")
 
-![alt text](https://github.com/Yaguay/POO/blob/master/Images/15.jpg "15")
+![alt text](https://github.com/Yaguay/POO/blob/master/Images/15.png "15")
 
 Y con esto DOTNET ha sido instalado. Y para confirmar que lo está, abra el cmd en su PC (también llamado símbolo del sistema) en la barra del buscador y ejecútela.
 
-![alt text](https://github.com/Yaguay/POO/blob/master/Images/16.jpg "16")
+![alt text](https://github.com/Yaguay/POO/blob/master/Images/16.png "16")
 
-![all text](https://github.com/Yaguay/POO/blob/master/Images/17.jpg "17") 
+![alt text](https://github.com/Yaguay/POO/blob/master/Images/17.png "17") 
 
 Escriba dotnet y presione Enter. Si la instalación fue correcta, le aparecerá una descripción como en la imagen siguiente.
 
-![all text](https://github.com/Yaguay/POO/blob/master/Images/18.jpg "18") 
+![alt text](https://github.com/Yaguay/POO/blob/master/Images/18.png "18") 
 
 Si aparece una descripción como en la imagen anterior, eso quiere decir que la instalación fue correcta.
