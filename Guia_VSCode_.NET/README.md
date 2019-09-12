@@ -34,3 +34,9 @@ Cuando termine la descarga, inicia el instalador, y sigue las siguientes imágen
 ![alt text](https://drive.google.com/file/d/1n7YrIgmy52plFfW19WBwplbxBBJEHZ7x/view "10")
 
 Y con esto, ya está instalado VS Code.
+
+## DOTNET 
+
+Primero ingresa a [Esta página](https://dotnet.microsoft.com/ "dotnet.microsoft.com") y presiona Download.
+
+![alt text]()
